@@ -18,3 +18,23 @@ main{
 .devicons-css3{
     color: #2965F1;
 }
+#contact-page main{
+    height: 90vh;
+    padding: 5em;
+}
+#contact-page .card{
+    border: none;
+}
+#contact-page .fab{
+    font-size: 3em;
+    padding: 1rem;
+}
+.fa-twitter{
+    color: #1DA1F2;
+}
+.fa-facebook{
+    color: #4267B2;
+}
+.fa-github{
+    color: #24292E;
+}
